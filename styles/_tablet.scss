@@ -1,0 +1,12 @@
+@media (max-width: 920px) {
+    html{
+        font-size: 60%;
+    }
+    .header{
+        .header__box{
+            .box__hours{
+                display: none;
+            }
+        }
+    }
+}
